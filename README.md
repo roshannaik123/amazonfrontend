@@ -1,2 +1,2 @@
 # modern project
-This is amazon frontend project created using html and css only.
+This is modern website project made using html and css only.
